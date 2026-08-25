@@ -4,7 +4,7 @@
 <!-- HEADER / BANNER CYBERPUNK & JARVIS INITIALIZATION                                -->
 <!-- ============================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F0FF,100:7928CA&height=220&section=header&text=MURILO%20CORSULINI%20//%20DEV%20CORE&fontSize=30&fontColor=00F0FF&animation=twinkling&fontAlignY=40&desc=%3E_%20ETEC%20AMS%20STUDENT%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20IOT%20EXPLORER&descAlignY=62&descSize=14&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F0FF,100:7928CA&height=220&section=header&text=MURILO%20CORSULINI%20//%20DEV%20CORE&fontSize=30&fontColor=00F0FF&animation=twinkling&fontAlignY=40&desc=%3E_%20ETEC%20AMS%20STUDENT%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=62&descSize=14&descAlign=50" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION (JARVIS PROTOCOL) -->
 <a href="https://git.io/typing-svg">
@@ -27,19 +27,28 @@
 identity:
   operator: "Murilo de Oliveira Corsulini"
   age: 16
-  role: "Estudante & Desenvolvedor de Software"
+  role: "Estudante de Desenvolvimento de Sistemas"
+  level: "Iniciante / Intermediário"
   institution: "ETEC Pedro Ferreira Alves"
   program: "AMS (Articulação da Formação Profissional Média e Superior)"
-  course: "Desenvolvimento de Sistemas"
   location: "São Paulo, Brasil [UTC-3]"
-  profile_objective: "Exibir projetos práticos, evolução técnica e soluções inovadoras"
+  focus_technologies:
+    - "HTML5 & CSS3 (Iniciante / Intermediário)"
+    - "JavaScript (Iniciante / Intermediário)"
+    - "Java (Iniciante / Intermediário)"
+    - "PHP (Iniciante / Intermediário)"
+    - "MySQL (Iniciante / Intermediário)"
+    - "Arduino / Automação (Iniciante / Intermediário)"
+    - "n8n (Automação de Fluxos)"
+  interests:
+    - "Entusiasta de Inteligência Artificial e Automações Inteligentes"
   core_mindset:
-    - "Aprendizado contínuo e resolução lógica de problemas"
-    - "União de software moderno (Web/Backend) com hardware inteligente (Arduino/IoT)"
-    - "Código limpo, organizado e foco na experiência do usuário"
+    - "Praticar criando projetos reais e compartilhando no GitHub"
+    - "Evoluir na lógica de programação e desenvolvimento web"
+    - "Aprender integração de banco de dados, IA e automações"
 ```
 
-> Olá! Me chamo **Murilo Corsulini**, tenho 16 anos e sou estudante de **Desenvolvimento de Sistemas** pela **ETEC Pedro Ferreira Alves** integrado ao programa **AMS**. Sou apaixonado por tecnologia, programação e automação. Utilizo este espaço para compartilhar meus projetos pessoais, experimentos com software e projetos interativos com **Arduino / C#**.
+> Olá! Me chamo **Murilo de Oliveira Corsulini**, tenho 16 anos e sou estudante de **Desenvolvimento de Sistemas** na **ETEC Pedro Ferreira Alves** (programa **AMS**). Sou apaixonado por tecnologia e **entusiasta de Inteligência Artificial e automações**! Atualmente estou no nível **iniciante/intermediário** nas tecnologias que estudo: **HTML, CSS, JavaScript, Java, PHP, MySQL, Arduino e n8n**. Criei este perfil para documentar minha evolução e compartilhar meus projetos práticos!
 
 <br/>
 
@@ -180,19 +189,19 @@ flowchart LR
 <!-- TERMINAL OBJECTIVES                                                            -->
 <!-- ============================================================================== -->
 
-## 💻 `// 05. TERMINAL DE METAS & DIRETRIZES TÉCNICAS`
+## 💻 `// 05. TERMINAL DE OBJETIVOS DE APRENDIZADO`
 
 ```bash
 murilo@jarvis-system:~$ cat ~/etec-ams/goals_2026.log
 
-[+] OBJETIVO_01: Consolidar fundamentos de POO avançada em Java e C#.
-[+] OBJETIVO_02: Criar projetos de automação com sensores e Arduino integrados a dashboards web.
-[+] OBJETIVO_03: Aprofundar modelagem de banco de dados e consultas complexas em MySQL.
-[+] OBJETIVO_04: Desenvolver aplicações web robustas integrando PHP, JavaScript moderno e APIs.
-[+] OBJETIVO_05: Publicar projetos open-source e expandir portfólio no GitHub.
+[+] OBJETIVO_01: Consolidar lógica e Orientação a Objetos em Java e PHP.
+[+] OBJETIVO_02: Desenvolver interfaces dinâmicas com HTML5, CSS3 e JavaScript.
+[+] OBJETIVO_03: Praticar modelagem relacional, criação de tabelas e queries no MySQL.
+[+] OBJETIVO_04: Montar circuitos e projetos de automação com sensores usando Arduino.
+[+] OBJETIVO_05: Criar fluxos de automação e integração de serviços utilizando n8n.
 
-CURRENT_STAGE: [ETEC AMS - DESENVOLVIMENTO DE SISTEMAS]
-STATUS: EXECUTING COMPILED DIRECTIVES... [OK]
+CURRENT_STAGE: [ETEC AMS - NÍVEL INICIANTE / INTERMEDIÁRIO]
+STATUS: APRENDENDO E CODIFICANDO NOVOS PROJETOS... [OK]
 ```
 
 <br/>
@@ -205,30 +214,20 @@ STATUS: EXECUTING COMPILED DIRECTIVES... [OK]
 
 <div align="center">
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Muri2025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="95%" />
-
-<br/><br/>
-
-<!-- STATS & TOP LANGS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Muri2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muri2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muri2025&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7928CA&currStreakNum=00F0FF" alt="GitHub Streak" width="95%" />
+<!-- STATS & TOP LANGS CARDS -->
+<a href="https://github.com/Muri2025">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muri2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Stats de Muri2025" width="48%" />
+</a>
+<a href="https://github.com/Muri2025">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muri2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages de Muri2025" width="48%" />
+</a>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muri2025&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=7928CA&point=00F0FF&hide_border=true" alt="Activity Graph" width="95%" />
-
-<br/><br/>
-
-<!-- SNAKE ANIMATION -->
-### 🐍 `// REGISTRO DE ATIVIDADE & CONTRIBUIÇÕES`
-<img src="https://raw.githubusercontent.com/Muri2025/Muri2025/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<a href="https://github.com/Muri2025">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muri2025&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=7928CA&point=00F0FF&hide_border=true" alt="Activity Graph de Muri2025" width="95%" />
+</a>
 
 </div>
 
