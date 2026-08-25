@@ -13,11 +13,6 @@
 
 <br/>
 
-<!-- STATUS BADGES -->
-[![Status](https://img.shields.io/badge/STATUS-DISPONÍVEL_PARA_APRENDER-00F0FF?style=for-the-badge&logo=statuspal&logoColor=0D1117&labelColor=0D1117)](https://github.com/)
-[![Program](https://img.shields.io/badge/PROGRAMA-ETEC_AMS-7928CA?style=for-the-badge&logo=codeforces&logoColor=00F0FF&labelColor=0D1117)](https://github.com/)
-[![Focus](https://img.shields.io/badge/FOCO-DEV_SISTEMAS_%26_IOT-00FF66?style=for-the-badge&logo=circuitverse&logoColor=00FF66&labelColor=0D1117)](https://github.com/)
-
 ---
 
 </div>
@@ -103,39 +98,14 @@ flowchart LR
 
 <div align="center">
 
-### 🌐 **Frontend & Interfaces Web**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### ⚙️ **Backend & Linguagens de Programação**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
-### 🗄️ **Bancos de Dados & Armazenamento**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Relational_Modeling-00F0FF?style=for-the-badge&logo=databricks&logoColor=0D1117" />
-</p>
-
-### 🤖 **Hardware, Robótica & Automação**
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT_&_Sensors-7928CA?style=for-the-badge&logo=microgenetics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-00FF66?style=for-the-badge&logo=embedded&logoColor=0D1117" />
-</p>
-
-### 🛠️ **Ferramentas & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<marquee direction="up" scrollamount="3" height="150px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cs,mysql,arduino,git,github,vscode" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,bootstrap,tailwind,nodejs,linux,postman,figma" />
+  </p>
+</marquee>
 
 </div>
 
@@ -265,7 +235,7 @@ STATUS: EXECUTING COMPILED DIRECTIVES... [OK]
 
 <p align="center">
   <i>"A melhor maneira de prever o futuro é construí-lo através do código."</i><br/>
-  <sub>⚡ Murilo de Oliveira Corsulini • ETEC Pedro Ferreira Alves (AMS) • JARVIS & Cyber Engine</sub>
+  <sub>⚡ Murilo de Oliveira Corsulini • ETEC Pedro Ferreira Alves (AMS)</sub>
 </p>
 
 </div>
