@@ -8,7 +8,7 @@
 
 <!-- TYPING ANIMATION (JARVIS PROTOCOL) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%E2%9A%A1+Estudante+de+Desenvolvimento+de+Sistemas+(ETEC+AMS);%F0%9F%A7%A0+Construindo+aplica%C3%A7%C3%B5es+com+Java%2C+PHP%2C+JS+%26+MySQL;%F0%9F%94%8C+Explorando+Hardware%2C+Automa%C3%A7%C3%A3o+e+IoT+com+C%23+%26+Arduino;%F0%9F%9A%80+Status%3A+Evoluindo+habilidades+e+criando+projetos+de+impacto..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%E2%9A%A1+Estudante+de+Desenvolvimento+de+Sistemas+(ETEC+AMS);%F0%9F%A7%A0+Construindo+aplica%C3%A7%C3%B5es+com+Java%2C+PHP%2C+JS+%26+MySQL;%F0%9F%94%8C+Explorando+Hardware%2C+Automa%C3%A7%C3%A3o;%F0%9F%9A%80+Status%3A+Evoluindo+habilidades+e+criando+projetos+de+impacto..." alt="Typing SVG" />
 </a>
 
 <br/>
