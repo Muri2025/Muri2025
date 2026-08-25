@@ -207,36 +207,10 @@ STATUS: APRENDENDO E CODIFICANDO NOVOS PROJETOS... [OK]
 <br/>
 
 <!-- ============================================================================== -->
-<!-- GITHUB METRICS & TELEMETRY                                                     -->
-<!-- ============================================================================== -->
-
-## 📊 `// 06. TELEMETRIA DO GITHUB & ESTATÍSTICAS`
-
-<div align="center">
-
-<!-- CARDS DE ESTATÍSTICAS E ATIVIDADE ULTRA ESTÁVEIS -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muri2025&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7928CA&currStreakNum=00F0FF&sideNums=c9d1d9&sideLabels=00F0FF&dates=8b949e" width="80%" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muri2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muri2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muri2025&label=VISITAS+AO+PERFIL&color=00f0ff&style=for-the-badge&base=10" alt="Contador de Visitas" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- ============================================================================== -->
 <!-- SOCIAL / CONTACT HUBS                                                          -->
 <!-- ============================================================================== -->
 
-## 🌐 `// 07. CONEXÕES & REDES SOCIAIS`
+## 🌐 `// 06. CONEXÕES & REDES SOCIAIS`
 
 <div align="center">
 
