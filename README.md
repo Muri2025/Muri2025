@@ -54,52 +54,44 @@ identity:
 
 ## 🧬 `// 02. FLUXO DE VALOR: MEU APRENDIZADO <-> SUA EMPRESA`
 
-> **Diagrama de Casos de Uso** conectando as minhas competências e projetos com o valor gerado para as empresas e o ecossistema de tecnologia:
+> **Diagrama de Casos de Uso & Valor** ilustrando a conexão entre a minha formação técnica e o impacto gerado para empresas:
 
-```plantuml
-@startuml
-!theme cyborg
-skinparam backgroundColor #0d1117
-skinparam defaultFontColor #c9d1d9
-skinparam ArrowColor #00f0ff
-skinparam ActorBorderColor #00f0ff
-skinparam ActorBackgroundColor #161b22
-skinparam UseCaseBorderColor #7928ca
-skinparam UseCaseBackgroundColor #161b22
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#161b22', 'primaryTextColor':'#00f0ff', 'primaryBorderColor':'#00f0ff', 'lineColor':'#7928ca', 'secondaryColor':'#0d1117', 'tertiaryColor':'#161b22'}}}%%
+flowchart LR
+    subgraph DevGroup [👨‍💻 Murilo Corsulini - ETEC AMS]
+        A["💻 Full Stack Web<br/>(HTML, CSS, JS, PHP)"]
+        B["⚙️ Backend & Lógica<br/>(Java & C#)"]
+        C["🗄️ Modelagem & Banco<br/>(MySQL)"]
+        D["🤖 Automação & IoT<br/>(Arduino / Sensores)"]
+    end
 
-left to right direction
+    subgraph SolutionGroup [🚀 Hub de Soluções & Competências]
+        S1["📦 Entrega de Software Confiável"]
+        S2["⚡ Automação & Integração de Hardware"]
+        S3["📊 Estruturas de Dados Otimizadas"]
+    end
 
-actor "Murilo (Dev ETEC AMS)" as Dev #00f0ff
-actor "Empresas & Oportunidades" as Company #ff007f
+    subgraph CompanyGroup [🏢 Sua Empresa / Oportunidades]
+        E1["📈 Resolução Ágil de Problemas"]
+        E2["💡 Inovação & Eficiência Operacional"]
+        E3["🎯 Alto Potencial de Crescimento Técnico"]
+    end
 
-rectangle "Ecossistema de Soluções & Inovação" {
-  usecase "Desenvolvimento Web\n(HTML, CSS, JS, PHP)" as UC_Web
-  usecase "Lógica Backend & Estruturas\n(Java & C#)" as UC_Back
-  usecase "Modelagem & Gestão de Dados\n(MySQL)" as UC_DB
-  usecase "Automação & IoT\n(Arduino / Hardware)" as UC_IoT
-  usecase "Entrega de Software Eficiente\n& Resolução de Problemas" as UC_Value
-  usecase "Inovação Tecnológica\n& Prontidão para o Mercado" as UC_Market
-}
+    A --> S1
+    B --> S1
+    C --> S3
+    D --> S2
 
-Dev --> UC_Web
-Dev --> UC_Back
-Dev --> UC_DB
-Dev --> UC_IoT
+    S1 --> E1
+    S2 --> E2
+    S3 --> E1
+    S1 & S2 & S3 --> E3
 
-UC_Web --> UC_Value : <<impulsiona>>
-UC_Back --> UC_Value : <<estrutura>>
-UC_DB --> UC_Value : <<sustenta>>
-UC_IoT --> UC_Market : <<conecta>>
-UC_Value --> UC_Market : <<amplia>>
-
-UC_Value --> Company
-UC_Market --> Company
-@enduml
+    style DevGroup fill:#0d1117,stroke:#00f0ff,stroke-width:2px,stroke-dasharray: 4 4
+    style SolutionGroup fill:#161b22,stroke:#7928ca,stroke-width:2px
+    style CompanyGroup fill:#0d1117,stroke:#00ff66,stroke-width:2px,stroke-dasharray: 4 4
 ```
-
-<div align="center">
-  <img src="https://www.plantuml.com/plantuml/svg/TP4_Ry8m48NVVOhFw_q3Q6m5W5L3Z52aK3t1eIuL6Zk7eI41j5o9v-7uN3gO8zO23dDfv3dZzvvvP54K83b7zP3374V_vj153401Y4Vw1uX3Z4123403Vw30X121V0w0X0Fw0kM4X10_v0X0_v0X0_v0X0_v0X0_v0X0_v0X0_v0" alt="PlantUML Casos de Uso Murilo -> Empresa" width="90%"/>
-</div>
 
 <br/>
 
