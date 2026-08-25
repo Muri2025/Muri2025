@@ -100,7 +100,8 @@ flowchart LR
 
 <marquee direction="up" scrollamount="3" height="110px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,arduino,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,arduino,git,github" />
+    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="48" style="vertical-align: middle; margin-left: 6px; border-radius: 10px;" />
   </p>
 </marquee>
 
@@ -112,34 +113,62 @@ flowchart LR
 <!-- FEATURED PROJECTS (CYBER DECK CARDS)                                           -->
 <!-- ============================================================================== -->
 
-## 💎 `// 04. PROJETOS EM DESTAQUE (CYBERNETIC LABS)`
+## 💎 `// 04. PROJETOS EM DESTAQUE (REPOSITÓRIOS PÚBLICOS)`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <b>SISTEMA DE AUTOMAÇÃO & IOT</b></h3>
+      <h3 align="center">🎰 <b>JOGO DE APOSTAS</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-00F0FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/TECH-C%23%20%7C%20Arduino-7928CA?style=flat-square" />
+        <img src="https://img.shields.io/badge/STATUS-PUBLIC-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/TECH-Python-7928CA?style=flat-square" />
       </p>
       <p align="justify">
-        Projeto focado na integração de microcontroladores com software em C#, realizando leitura de sensores, controle de atuadores e comunicação serial interativa.
+        Jogo de apostas interativo estilo caça-níquel desenvolvido em Python com lógica de sorteio e controle de saldo.
       </p>
       <p align="center">
-        <a href="https://github.com/"><b>[ VER CÓDIGO NO GITHUB ➔ ]</b></a>
+        <a href="https://github.com/Muri2025/jogo-de-apostas"><b>[ VER REPOSITÓRIO ➔ ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 <b>SISTEMA WEB FULLSTACK & CRUD</b></h3>
+      <h3 align="center">🍰 <b>DOCE SABOR</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-PROTÓTIPO-00FF66?style=flat-square" />
-        <img src="https://img.shields.io/badge/TECH-PHP%20%7C%20MySQL%20%7C%20JS-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/STATUS-PUBLIC-00FF66?style=flat-square" />
+        <img src="https://img.shields.io/badge/TECH-HTML%20%7C%20CSS-blue?style=flat-square" />
       </p>
       <p align="justify">
-        Aplicação completa com autenticação, regras de negócio e persistência de dados em banco de dados relacional MySQL com interface dinâmica em JS/CSS.
+        Interface web desenvolvida para confeitaria/doceria com layout moderno e foco na experiência visual do usuário.
       </p>
       <p align="center">
-        <a href="https://github.com/"><b>[ VER CÓDIGO NO GITHUB ➔ ]</b></a>
+        <a href="https://github.com/Muri2025/docesabor"><b>[ VER REPOSITÓRIO ➔ ]</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☀️ <b>SOLAR</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-PUBLIC-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/TECH-JavaScript%20%7C%20Web-F7DF1E?style=flat-square&logoColor=black" />
+      </p>
+      <p align="justify">
+        Projeto interativo web explorando dinamismo e lógica em JavaScript para simulação/apresentação visual.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Muri2025/solar"><b>[ VER REPOSITÓRIO ➔ ]</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 <b>MURI2025.GITHUB.IO</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF66?style=flat-square" />
+        <img src="https://img.shields.io/badge/TECH-JavaScript%20%7C%20GitHub%20Pages-purple?style=flat-square" />
+      </p>
+      <p align="justify">
+        Site/portfólio pessoal publicado diretamente no GitHub Pages demonstrando projetos e estudos web.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Muri2025/Muri2025.github.io"><b>[ VER REPOSITÓRIO ➔ ]</b></a>
       </p>
     </td>
   </tr>
@@ -176,30 +205,30 @@ STATUS: EXECUTING COMPILED DIRECTIVES... [OK]
 
 <div align="center">
 
-<!-- TROPHIES (Substitua SEU_USERNAME pelo seu usuário do GitHub) -->
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="95%" />
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=Muri2025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="95%" />
 
 <br/><br/>
 
 <!-- STATS & TOP LANGS -->
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muri2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muri2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7928CA&currStreakNum=00F0FF" alt="GitHub Streak" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muri2025&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7928CA&currStreakNum=00F0FF" alt="GitHub Streak" width="95%" />
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=7928CA&point=00F0FF&hide_border=true" alt="Activity Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muri2025&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=7928CA&point=00F0FF&hide_border=true" alt="Activity Graph" width="95%" />
 
 <br/><br/>
 
 <!-- SNAKE ANIMATION -->
 ### 🐍 `// REGISTRO DE ATIVIDADE & CONTRIBUIÇÕES`
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Muri2025/Muri2025/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 </div>
 
@@ -214,7 +243,7 @@ STATUS: EXECUTING COMPILED DIRECTIVES... [OK]
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muri2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
