@@ -214,20 +214,19 @@ STATUS: APRENDENDO E CODIFICANDO NOVOS PROJETOS... [OK]
 
 <div align="center">
 
-<!-- STATS & TOP LANGS CARDS -->
-<a href="https://github.com/Muri2025">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muri2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Stats de Muri2025" width="48%" />
-</a>
-<a href="https://github.com/Muri2025">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muri2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages de Muri2025" width="48%" />
-</a>
+<!-- CARDS DE ESTATÍSTICAS E ATIVIDADE ULTRA ESTÁVEIS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muri2025&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7928CA&currStreakNum=00F0FF&sideNums=c9d1d9&sideLabels=00F0FF&dates=8b949e" width="80%" alt="GitHub Streak Stats" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muri2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muri2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="48%" alt="Top Languages" />
+</p>
 
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/Muri2025">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muri2025&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=7928CA&point=00F0FF&hide_border=true" alt="Activity Graph de Muri2025" width="95%" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muri2025&label=VISITAS+AO+PERFIL&color=00f0ff&style=for-the-badge&base=10" alt="Contador de Visitas" />
+</p>
 
 </div>
 
