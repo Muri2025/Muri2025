@@ -98,12 +98,9 @@ flowchart LR
 
 <div align="center">
 
-<marquee direction="up" scrollamount="3" height="150px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">
+<marquee direction="up" scrollamount="3" height="110px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cs,mysql,arduino,git,github,vscode" />
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,bootstrap,tailwind,nodejs,linux,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,arduino,git,github,vscode" />
   </p>
 </marquee>
 
